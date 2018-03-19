@@ -1,5 +1,5 @@
 This a gRPC test program.
-
+-
 RUN
 go get -u google.golang.org/grpc/examples/helloworld/greeter_client
 go get -u google.golang.org/grpc/examples/helloworld/greeter_server
