@@ -1,4 +1,3 @@
-//sadas
 package main
 
 import (
