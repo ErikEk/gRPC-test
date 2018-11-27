@@ -1,4 +1,4 @@
-This is a gRPC test program.
+This is a gRPC api test program.
 ----
 RUN
 go get -u google.golang.org/grpc/examples/helloworld/greeter_client
